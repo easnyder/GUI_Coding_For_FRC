@@ -1,0 +1,7 @@
+:null
+A:RunMotor,CAN,Spark Max,13,50-null
+B:IF,Contiunously,LimitSwitch,10-RunMotor,CAN,Spark Max,13,50-null-end-null
+X:IF,Only on start,LimitSwitch,10-RunMotor,CAN,Spark Max,13,50-null-end-null
+Y:RunMotor,CAN,Spark Max,13,50-null
+Left_Bumber:null
+Right_Bumber:null
